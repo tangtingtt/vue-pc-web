@@ -77,6 +77,7 @@ export default {
     list-style: none;
     line-height: 24px;
     height: 24px;
+    border-radius: 4px;
     &:first-child {
       margin-top: 0px;
     }
